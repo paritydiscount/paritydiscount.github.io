@@ -1,6 +1,4 @@
 window.onload = function (){
-  alert ("This is an alert dialog box");  
-  console.log("enter");
   var z = document.createElement("div"); // is a node
   z.setAttribute(
     "style",

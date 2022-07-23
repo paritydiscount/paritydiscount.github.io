@@ -1,0 +1,27 @@
+.pd-root {
+  background-color: #0b66dbcc;
+  color: white;
+  border-radius: 2px;
+  font-size: 1rem;
+  padding: 20px 10px;
+  text-align: center;
+  position: relative;
+}
+.pd-root-close-button {
+  width: 1rem;
+  height: 1rem;
+  border: 0;
+  opacity: 0.5;
+  background-color: transparent;
+  color: currentColor;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  padding: 0;
+}
+.pd-root-close-button:hover {
+  opacity: 1;
+}
+.pd-root.pd-root-has-logo {
+  padding-left: 120px;
+}

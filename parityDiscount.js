@@ -8,7 +8,7 @@ window.onload = function (){
 //   document.body.appendChild(z);
   
   
-    var t = ".parity-banner {background-color:#0b66dbcc;color:white;border-radius:10px;font-size: 1rem;padding: 20px 10px;text-align: center;position: relative;}",r = ".parity-banner-close-btn{width:1rem;height:1rem;border:0;opacity:.5;background-color:transparent;color:currentColor;position:absolute;top:1rem;right:1rem;padding:0}.parity-banner-close-btn:hover{opacity:1;}",o = document.createElement("style");
+    var t = ".parity-banner {background-color:#0b66dbcc;color:white;border-radius:2px;font-size: 1rem;padding: 20px 10px;text-align: center;position: relative;}",r = ".parity-banner-close-btn{width:1rem;height:1rem;border:0;opacity:.5;background-color:transparent;color:currentColor;position:absolute;top:1rem;right:1rem;padding:0}.parity-banner-close-btn:hover{opacity:1;}",o = document.createElement("style");
 
 		console.log({t,r,o});
 	

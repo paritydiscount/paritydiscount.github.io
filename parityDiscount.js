@@ -12,7 +12,7 @@ window.onload = function (){
 
 		console.log({t,r,o});
 	
-    	o.innerText = ".parity-banner.parity-banner-has-logo {padding-left: 120px;}",document.head.appendChild(o);
+    	o.innerText = t + r + ".parity-banner.parity-banner-has-logo {padding-left: 120px;}",document.head.appendChild(o);
 	
 	console.log({o});
   
